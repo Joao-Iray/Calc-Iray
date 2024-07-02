@@ -1,1 +1,1 @@
-Projeto de aprendizado "HTML" calculadora 
+Projeto de aprendizado VsCode "HTML" calculadora 
